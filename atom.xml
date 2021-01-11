@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Clare</title>
+  
+  <subtitle>人生如光，波粒二象</subtitle>
+  <link href="https://cqchenqin.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://cqchenqin.github.io/"/>
+  <updated>2020-08-27T16:06:00.000Z</updated>
+  <id>https://cqchenqin.github.io/</id>
+  
+  <author>
+    <name>CHEN-QIN</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C语言复习篇 （八）</title>
+    <link href="https://cqchenqin.github.io/posts/cbd5.html"/>
+    <id>https://cqchenqin.github.io/posts/cbd5.html</id>
+    <published>2020-08-27T16:06:00.000Z</published>
+    <updated>2020-08-27T16:06:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="C语言" scheme="https://cqchenqin.github.io/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="笔记" scheme="https://cqchenqin.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言复习篇 （七）</title>
+    <link href="https://cqchenqin.github.io/posts/7fb0.html"/>
+    <id>https://cqchenqin.github.io/posts/7fb0.html</id>
+    <published>2020-08-26T15:25:00.000Z</published>
+    <updated>2020-08-26T15:25:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="C语言" scheme="https://cqchenqin.github.io/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="笔记" scheme="https://cqchenqin.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言复习篇（六）</title>
+    <link href="https://cqchenqin.github.io/posts/ac8f.html"/>
+    <id>https://cqchenqin.github.io/posts/ac8f.html</id>
+    <published>2020-08-23T15:48:00.000Z</published>
+    <updated>2020-08-23T15:48:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="C语言" scheme="https://cqchenqin.github.io/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="笔记" scheme="https://cqchenqin.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言复习篇（五)</title>
+    <link href="https://cqchenqin.github.io/posts/eaf7.html"/>
+    <id>https://cqchenqin.github.io/posts/eaf7.html</id>
+    <published>2020-08-18T16:00:00.000Z</published>
+    <updated>2020-08-18T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="C语言" scheme="https://cqchenqin.github.io/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="笔记" scheme="https://cqchenqin.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言复习篇（四)</title>
+    <link href="https://cqchenqin.github.io/posts/eca3.html"/>
+    <id>https://cqchenqin.github.io/posts/eca3.html</id>
+    <published>2020-08-01T16:00:00.000Z</published>
+    <updated>2020-08-01T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="C语言" scheme="https://cqchenqin.github.io/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="笔记" scheme="https://cqchenqin.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言复习篇（三)</title>
+    <link href="https://cqchenqin.github.io/posts/7a5f.html"/>
+    <id>https://cqchenqin.github.io/posts/7a5f.html</id>
+    <published>2020-07-27T16:00:00.000Z</published>
+    <updated>2020-07-27T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="C语言" scheme="https://cqchenqin.github.io/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="笔记" scheme="https://cqchenqin.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言复习篇（三)</title>
+    <link href="https://cqchenqin.github.io/posts/7a5f.html"/>
+    <id>https://cqchenqin.github.io/posts/7a5f.html</id>
+    <published>2020-07-27T16:00:00.000Z</published>
+    <updated>2020-07-27T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="C语言" scheme="https://cqchenqin.github.io/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="笔记" scheme="https://cqchenqin.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言复习篇（二)</title>
+    <link href="https://cqchenqin.github.io/posts/eafd.html"/>
+    <id>https://cqchenqin.github.io/posts/eafd.html</id>
+    <published>2020-07-18T16:00:00.000Z</published>
+    <updated>2020-07-18T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="C语言" scheme="https://cqchenqin.github.io/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="笔记" scheme="https://cqchenqin.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言复习篇（一)</title>
+    <link href="https://cqchenqin.github.io/posts/2a59.html"/>
+    <id>https://cqchenqin.github.io/posts/2a59.html</id>
+    <published>2020-07-17T16:00:00.000Z</published>
+    <updated>2020-07-17T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="C语言" scheme="https://cqchenqin.github.io/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="笔记" scheme="https://cqchenqin.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://cqchenqin.github.io/posts/3eeb.html"/>
+    <id>https://cqchenqin.github.io/posts/3eeb.html</id>
+    <published>2020-07-14T16:00:00.000Z</published>
+    <updated>2020-07-14T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
